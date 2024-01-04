@@ -11,7 +11,8 @@ This repository is a work-in-progress Hackintosh configuration for the MSI GF63 
 - Model: MSI GF63 8RC-052NL
 - Processor: Intel Core i7-8750H
 - RAM: 24 GB (8 GB + 16 GB)
-- GPU: Nvidia GTX 1050 (disabled in this configuration)
+- GPU1: Intel UHD Graphics 630
+- GPU2: Nvidia GTX 1050 (disabled in this configuration)
 - Storage:
   - Kingston 128 GB SSD
   - 1 TB Toshiba Hard Drive
