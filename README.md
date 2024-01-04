@@ -32,16 +32,17 @@ This repository is a work-in-progress Hackintosh configuration for the MSI GF63 
 Follow the instructions in the "Installation" section to set up macOS on your MSI GF63.
 
 
-##Installation
+## Installation
 
-##Post-Installation
-
-
-##Issues
+## Post-Installation
 
 
-##Contributing
+## Issues
 
 
-##License
+## Contributing
+
+
+## License
+
 GNU General Public License v3.0
